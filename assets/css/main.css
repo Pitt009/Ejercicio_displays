@@ -3,8 +3,6 @@
   font-size: 20px;
   padding: 30px 30px;
 
-
-
 }
 
 .container{
@@ -12,10 +10,8 @@
   height: 50px;
   width:250px;
   padding: 10px 10px;
-  margin: 20px;
-  display: inline;
-
-
+  margin: 1px;
+  display: inline-block;
 
 }
 
